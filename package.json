@@ -1,0 +1,15 @@
+{
+  "name": "github-actions-demo",
+  "version": "0.1.0",
+  "private": "true",
+  "main": "index.js",
+  "author": "linux_china",
+  "license": "MIT",
+  "devDependencies": {
+    "vitest": "^3.2.4"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "vitest run"
+  }
+}
