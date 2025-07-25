@@ -246,3 +246,4 @@ dist
 package-lock.json
 
 .env.keys
+justfile
